@@ -9,7 +9,7 @@
 using namespace std;
 
 class animal {
-private:
+protected:
     string name ;              // the animal's name
     int animalID ;             // the animal's unique ID
     int volume ;               // the volume of the animal's body
