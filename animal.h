@@ -21,7 +21,7 @@ public:
     void set_name(string n);
     int get_volume();
     void set_volume(int v);
-    int get_animal_ID();
+    int get_animalID();
 
 };
 
