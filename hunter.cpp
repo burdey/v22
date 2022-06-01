@@ -6,7 +6,7 @@
 
 int hunter::nextID = 1000;
 
-hunter::hunter(string n, int v){
+hunter::hunter(string n, int v):animal(n,v){
     nextID++;
     kills = 0;
     animalID = nextID;
