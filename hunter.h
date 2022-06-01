@@ -6,7 +6,7 @@
 #define ANIMAL_HUNTER_H
 
 #include <iostream>
-#include "aniaml.h"
+#include "animal.h"
 #include <string>
 using namespace std;
 
